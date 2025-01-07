@@ -20,3 +20,8 @@ venv/
 *.log
 web_custom_versions/
 .DS_Store
+
+env/
+*.code-workspace
+*.code-workspace
+ComfyUI.code-workspace
