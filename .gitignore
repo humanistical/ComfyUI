@@ -26,3 +26,6 @@ env/
 *.code-workspace
 *.code-workspace
 ComfyUI.code-workspace
+openapi.yaml
+filtered-openapi.yaml
+uv.lock
